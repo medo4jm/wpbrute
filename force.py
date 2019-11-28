@@ -7,7 +7,7 @@ import re, sys, requests
 
 print """
 #####################################
-# W0pr3 - Wordpress BruteForce      #
+# GASS BRO! - Wordpress BruteForce      #
 # Coded By Syekh Thanos  #
 #                                   #
 #####################################
